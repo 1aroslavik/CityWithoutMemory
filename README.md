@@ -29,7 +29,6 @@ The player witnesses the gradual closeness of two people whose paths intersected
 |--------------------------------------|--------------------------------------|
 | ![Screenshot 3](screenshots/sc3.png) | ![Screenshot 4](screenshots/sc4.png) |
 
-> Add images to the `/screenshots` folder with correct names (`sc1.png`, `sc2.png`, etc.) to display them on GitHub.
 
 ---
 
