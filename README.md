@@ -51,17 +51,15 @@ The player witnesses the gradual closeness of two people whose paths intersected
 
 4. Run the game
 ---
-##Year of Development
+## Year of Development
 2025
 
-##Author's Role
+## Author's Role
 
--Script and storytelling
-
--Implementing choice logic in Ren’Py
-
--Working with visual scenes, sound, and pacing
-
--Character and Interface Design
+- Script and storytelling
+- Implementing choice logic in Ren’Py
+- Working with visual scenes, sound, and pacing
+---
+- Character and Interface Design
 
 @nasturra
