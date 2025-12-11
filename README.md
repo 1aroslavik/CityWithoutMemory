@@ -44,11 +44,8 @@ The player witnesses the gradual closeness of two people whose paths intersected
 1. Download or clone the repository:  
    ```bash
    git clone https://github.com/1aroslavik/CityWithoutMemory.git
-2. Install Ren’Py 8.0+
 
-3. Open the project using the Ren’Py Launcher
-
-4. Run the game
+2. Open exe file
 ---
 ## Year of Development
 2025
